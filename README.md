@@ -19,7 +19,7 @@ This app uses MongoDB, express.js, IndexedDB and Service workers to allow for a 
 The following snapspot is a look into what the application looks like with a couple transactions.
 
 
-
+ds
 
 
 
