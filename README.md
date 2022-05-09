@@ -18,8 +18,7 @@ This app uses MongoDB, express.js, IndexedDB and Service workers to allow for a 
 
 The following snapspot is a look into what the application looks like with a couple transactions.
 
-
-ds
+![Tutorial](./assets/images/tutorial.png)
 
 
 
@@ -27,7 +26,7 @@ ds
 
 This application is deployed to Heroku. 
 
-
+https://budget-tracker-kelcie.herokuapp.com/
 
 To see the Github page for this application, click [here](https://github.com/kelcmitch97/19-budget-tracker):
 
